@@ -1,0 +1,22 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+    color: white;
+    background-color: black;
+}
+.head{
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+    align-content: center;
+}
+ol{
+    list-style: none;
+    display: flex;
+    column-gap: 20px;
+}
